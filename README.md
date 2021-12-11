@@ -1,2 +1,2 @@
-# GenieUS-HR
-TEST TEST TEST
+# GenieUs
+### The in-person alternative to Stackoverflow.
